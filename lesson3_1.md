@@ -212,6 +212,8 @@ testing
 
 *git remote add origin https://github.com/MaksimMonastyrshin/Lesson_3_1.git*
 
+remote add origin - аналог команды init для удаленного репозитория.
+
 *git branch -M main*
 
 *git push -u origin main*
